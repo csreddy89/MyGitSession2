@@ -1,1 +1,1 @@
-# MyGitSession2. This is Edit1
+# MyGitSession2. This is Edit2.
